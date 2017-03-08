@@ -48,8 +48,6 @@ public class Token {
 	 * 
 	 * @param expression
 	 *            An expression string
-	 * @param symbols
-	 *            Legal operators
 	 * @return The calculated value of the final expression.
 	 * @throws CustomCalculatorException
 	 * @throws NumberFormatException
